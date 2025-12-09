@@ -1,0 +1,12 @@
+[package]
+name = "network_target"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nom = "7.1"
+thiserror = "1"
+
+[dev-dependencies]
+arbitrary = "1"
+
