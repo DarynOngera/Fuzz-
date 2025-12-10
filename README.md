@@ -40,3 +40,4 @@ The Rust program has an intentional bug in its packet parsing logic. The `parse_
 *   **Direct communication**: Instead of using a file to pass data between the fuzzer and the target, we could use a more direct communication channel like TCP sockets. This would be faster and more realistic for a network service.
 *   **Continuous mode**: The fuzzer could be extended to run in a continuous loop, constantly generating new test cases and logging the results.
 *   **Add fuzzing tests for URL validation**.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/221e727e-d033-4d37-9ded-26f99290b11c" />
